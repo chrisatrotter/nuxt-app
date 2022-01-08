@@ -167,6 +167,7 @@ yarn dev
 ```
 
 You have successfully created and launched your Nuxt application! 🎉
+
 If you got to `http://localhost:3000` you should see a website as shown below:
 
 ![Screenshot](assets/website.png)
