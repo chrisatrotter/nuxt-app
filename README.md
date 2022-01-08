@@ -89,7 +89,7 @@ In our case, we don't really need to select a module. We will just select the Gi
  ◯ Commitlint
 ```
 
-For this tutorial, we will skip testing frameworks as this is a whole new article in itself to just explain the different types of ways to test as well explain the different frameworks.
+For this tutorial, we will skip testing frameworks as this is a whole new article in itself to just explain the different types of ways to test and explain the different testing frameworks.
 ```
 ? Testing framework:
 ❯ None
@@ -136,7 +136,7 @@ Having a version control system is highly recommended to have a place to store y
   None
 ```
 
-You made it!
+You made it! 🥳🎉
 
 ```
 🎉  Successfully created project nuxt-netlify-app
