@@ -129,7 +129,7 @@ Here you'll be able to set the author of the application project. In this case, 
 ? What is your GitHub username? (chrisatrotter)
 ```
 
-Having a version control system is highly recommended to have a place to store your project besides having it locally on your own machine.
+Having a version control system is highly recommended to ensure that your project is not only persisted locally. It will ensure that your work will be available regardless what happens with your computer.
 ```
 ? Version control system: (Use arrow keys)
 ❯ Git
